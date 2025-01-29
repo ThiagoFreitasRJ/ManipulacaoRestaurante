@@ -1,5 +1,5 @@
 # Banco de Dados fictício de restaurante
 
-## Feito em MySQL utilizando comandos de atualização, inserção, delete, condicional e outros
+## Feito em MySQL utilizando comandos de manipulação, condicional, Funções de agregação, Consulta, JOINs 
 
 ###
